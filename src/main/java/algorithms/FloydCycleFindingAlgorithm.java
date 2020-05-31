@@ -1,7 +1,7 @@
 package main.java.algorithms;
 
-import common.ListNode;
 import main.java.common.LinkedLIst;
+import main.java.common.ListNode;
 
 /*
 This is noting but having two two pointers, slow and fast.
