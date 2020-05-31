@@ -1,4 +1,4 @@
-package common;
+package main.java.common;
 
 public class BinarySearchTree {
     public static Node head;

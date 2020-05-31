@@ -1,4 +1,6 @@
-package common;
+package main.java.common;
+
+import main.java.common.Node;
 
 public class TreeTraverseUtil {
 

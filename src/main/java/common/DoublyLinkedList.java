@@ -1,5 +1,7 @@
 package common;
 
+import main.java.common.Node;
+
 // todo
 public class DoublyLinkedList extends Node {
     static Node head;

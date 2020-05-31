@@ -1,4 +1,4 @@
-package common;
+package main.java.common;
 
 public class Node {
     public int data;

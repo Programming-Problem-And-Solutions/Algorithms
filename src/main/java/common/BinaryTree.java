@@ -1,4 +1,5 @@
-package common;
+package main.java.common;
+
 
 public class BinaryTree {
     public static Node n;
